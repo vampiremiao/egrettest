@@ -1,0 +1,60 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Common@atlas0,Common,Login,map_csv,CreateRole@atlas0,CreateRole,MainUI",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Common@atlas0.png",
+			"type": "image",
+			"name": "Common@atlas0"
+		},
+		{
+			"url": "assets/Common.fui",
+			"type": "bin",
+			"name": "Common"
+		},
+		{
+			"url": "assets/Login.fui",
+			"type": "bin",
+			"name": "Login"
+		},
+		{
+			"url": "assets/gameConfig/map.csv",
+			"type": "text",
+			"name": "map_csv"
+		},
+		{
+			"url": "assets/CreateRole@atlas0.png",
+			"type": "image",
+			"name": "CreateRole@atlas0"
+		},
+		{
+			"url": "assets/CreateRole.fui",
+			"type": "bin",
+			"name": "CreateRole"
+		},
+		{
+			"url": "assets/MainUI.fui",
+			"type": "bin",
+			"name": "MainUI"
+		}
+	]
+}
